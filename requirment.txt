@@ -1,0 +1,2 @@
+pulsar-client==2.9.1  # The version might vary based on your Pulsar setup
+psycopg2==2.9.2       # PostgreSQL adapter for Python
